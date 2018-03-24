@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Road Signs</string>
+    <string name="title">Do you know your road signs?</string>
+    <string name="directions">Take this quiz to test your knowledge on road signs you may see on your journey through South America.
+        The number of signs you correctly identified will be displayed after you submit your answers.</string>
+    <string name="road_sign">road sign</string>
+    <string name="Name">What is your first name?</string>
+    <string name="sign_1">Sign 1</string>
+    <string name="sign_2">Sign 2</string>
+    <string name="sign_3">Sign 3</string>
+    <string name="sign_4">Sign 4</string>
+    <string name="sign_5">Sign 5</string>
+    <string name="sign_6">Sign 6</string>
+    <string name="sign_7">Sign 7: Select the 3 signs that signify NO ENTRY</string>
+    <string name="submit">Submit Quiz</string>
+    <string name="reset">Take Quiz Again</string>
+    <string name="score_part2"> out of 9 correctly</string>
+    <string name="score_part1">, you answered</string>
+    <string name="caution">Caution</string>
+    <string name="stop">Stop</string>
+    <string name="yield">Yield</string>
+    <string name="bump_ahead">Bump Ahead</string>
+    <string name="hilly_road">Hilly Road</string>
+    <string name="pass_on_either_side">Pass on Either Side</string>
+    <string name="split_road">Split Road</string>
+    <string name="single_lanes">Single Lanes</string>
+    <string name="sleep_when_tired">Sleep When Tired</string>
+    <string name="surveillance_cameras">Surveillance Cameras</string>
+    <string name="low_beam_headlights_required">Low Beam Headlights Required</string>
+    <string name="narrow_road">Narrow Road</string>
+    <string name="construction">Construction</string>
+    <string name="falling_rocks">Falling Rocks</string>
+    <string name="railroad_crossing">Railroad Crossing</string>
+    <string name="do_not_enter">Do Not Enter</string>
+    <string name="road_ends">Road Ends</string>
+    <string name="lodging">Lodging</string>
+    <string name="banner_of_signs">banner of signs</string>
+    <string name="result_part1">, you answered\u0020</string>
+    <string name="result_part2">\u0020out of 9 correctly</string>
+    <string name="positive_message">Enjoy your trip!</string>
+    <string name="study_message">Study road signs more before your trip.</string>
+</resources>

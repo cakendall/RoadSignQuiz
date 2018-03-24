@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_pad">16dp</dimen>
+    <dimen name="button_pad">18dp</dimen>
+    <dimen name="banner_height">50dp</dimen>
+    <dimen name="thin_line">2dp</dimen>
+    <dimen name="line_pad">10dp</dimen>
+    <dimen name="small_pad">8dp</dimen>
+    <dimen name="sign100">100dp</dimen>
+    <dimen name="button_pad12">12dp</dimen>
+    <dimen name="submit150">150dp</dimen>
+    <dimen name="submit_pad">10dp</dimen>
+
+    <dimen name="title_text">24sp</dimen>
+    <dimen name="reg_text">14sp</dimen>
+    <dimen name="question_text">18sp</dimen>
+</resources>
