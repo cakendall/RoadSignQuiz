@@ -14,7 +14,7 @@
     <string name="sign_7">Sign 7: Select the 3 signs that signify NO ENTRY</string>
     <string name="submit">Submit Quiz</string>
     <string name="reset">Take Quiz Again</string>
-    <string name="score_part2"> out of 9 correctly</string>
+    <string name="score_part2"> out of 10 correctly. </string>
     <string name="score_part1">, you answered</string>
     <string name="caution">Caution</string>
     <string name="stop">Stop</string>
@@ -36,7 +36,24 @@
     <string name="lodging">Lodging</string>
     <string name="banner_of_signs">banner of signs</string>
     <string name="result_part1">, you answered\u0020</string>
-    <string name="result_part2">\u0020out of 9 correctly</string>
-    <string name="positive_message">Enjoy your trip!</string>
-    <string name="study_message">Study road signs more before your trip.</string>
+    <string name="result_part2">\u0020out of 10 correctly. </string>
+    <string name="positive_message"> Enjoy your trip!</string>
+    <string name="study_message"> Study road signs more before your trip.</string>
+    <string name="sign_8">Sign 8</string>
+    <string name="picture_sign_hint">What animal is on the sign?</string>
+    <string name="question_8_intro">"While traveling in South America, you may come across this sign for an animal crossing. What animal is depicted in the sign? Enter your answer in the box below."</string>
+    <string name="sign1_answer">Sign 1: Stop</string>
+    <string name="sign2_answer">Sign 2: Bump Ahead</string>
+    <string name="sign3_answer">Sign 3: Pass on Either Side</string>
+    <string name="sign4_answer">Sign 4: Low Beam Headlights Required</string>
+    <string name="sign5_answer">Sign 5: Falling Rocks</string>
+    <string name="sign6_answer">Sign 6: Railroad Crossing</string>
+    <string name="checkbox_label_a">a</string>
+    <string name="checkbox_label_c">c</string>
+    <string name="checkbox_label_b">b</string>
+    <string name="checkbox_label_d">d</string>
+    <string name="sign7_answer">Sign 7: a, b, and c</string>
+    <string name="sign8_answer">Sign 8: LLAMA</string>
+    <string name="viewAnswerButton">View Answers</string>
+
 </resources>

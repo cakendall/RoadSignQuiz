@@ -66,6 +66,16 @@
         <item name="android:textColor">@color/colorPrimaryDark</item>
     </style>
 
+    <!-- Style for answer text-->
+    <style name="Answer">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/small_pad</item>
+        <item name="android:textSize">@dimen/answer_text</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+    </style>
+
     <!-- Style for sign image-->
     <style name="Sign">
         <item name="android:layout_width">@dimen/sign100</item>
@@ -109,6 +119,28 @@
         <item name="android:textSize">@dimen/reg_text</item>
         <item name="android:textStyle">italic</item>
     </style>
+
+    <!-- Style for extended question directions-->
+    <style name="QuestionDirections">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">@string/directions</item>
+        <item name="android:padding">@dimen/text_pad</item>
+        <item name="android:textSize">@dimen/reg_text</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">left</item>
+    </style>
+
+    <!-- Style for name sign input-->
+    <style name="NameSign">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@drawable/sign_banner</item>
+        <item name="android:hint">What animal is on sign?</item>
+        <item name="android:inputType">textCapCharacters</item>
+    </style>
+
+
 
 
 
